@@ -22,7 +22,7 @@ MonBondhu is an **offline-first** mental health companion app that provides emot
 
 ## 📱 Screenshots
 ### Home Screen
-![Home](App_View\1 - Copy.jpeg)
+![Home]( )
 
 ### AI Chat
 ![Chat](screenshots/chat.png)
