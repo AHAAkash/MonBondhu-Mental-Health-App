@@ -1,17 +1,40 @@
-# mental_health
+# MonBondhu – মনবন্ধু
 
-A new Flutter project.
+**Your Personal Mental Health Companion**  
+*A bilingual (English + Bangla) mental wellness app made for Bangladesh.*
 
-## Getting Started
+![MonBondhu](https://github.com/AHAAkash/MonBondhu-Mental-Health-App/blob/main/assets/images/logo.png)
 
-This project is a starting point for a Flutter application.
+## 🌟 About the Project
 
-A few resources to get you started if this is your first Flutter project:
+MonBondhu is an **offline-first** mental health companion app that provides emotional support, mood tracking, journaling, AI-powered insights, and emergency resources.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Key Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **AI Chat Support** – Powered by Google Gemini (context-aware)
+- **Mood Tracker** – Track mood, sleep & stress
+- **Private Journal** – With AI risk analysis
+- **AI Daily Routines** – Personalized habit suggestions
+- **Depression Risk Prediction** – Weekly AI insights
+- **Gamification** – Unlock achievement badges
+- **Emergency Help** – Bangladeshi helplines (Kaan Pete Roi, 16789, 999)
+- **Doctor Directory** – Mental health professionals in Bangladesh
+- **Guided Breathing Exercise**
+- **Bilingual** – Full English & Bangla support
+
+## 📱 Screenshots
+
+*(Add your screenshots here later)*
+
+## 🛠 Tech Stack
+
+- Flutter (Dart)
+- Provider + SQLite
+- Google Gemini AI
+- fl_chart, flutter_heatmap_calendar
+
+## 🚀 How to Run Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/AHAAkash/MonBondhu-Mental-Health-App.git
